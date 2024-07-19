@@ -1,0 +1,1357 @@
+[
+    {
+        "id": "112-3_mech",
+        "courses": [
+            {
+                "subcode": "10D01901",
+                "name": "自動控制",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "彭守道",
+                        "mail": "stpeng@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修機械",
+                "time": "週一第2節(R301)週一第3節(R301)週一第4節(R301)週一第5節(R301)週一第6節(R301)週一第7節(R301)週一第8節(R301)週二第2節(R301)週二第3節(R301)週二第4節(R301)週二第5節(R301)週二第6節(R301)週二第7節(R301)週二第8節(R301)",
+                "location": "週一第2節(R301)週一第3節(R301)週一第4節(R301)週一第5節(R301)週一第6節(R301)週一第7節(R301)週一第8節(R301)週二第2節(R301)週二第3節(R301)週二第4節(R301)週二第5節(R301)週二第6節(R301)週二第7節(R301)週二第8節(R301)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "33人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "31人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "2人"
+                    }
+                }
+            },
+            {
+                "subcode": "10D09001",
+                "name": "微積分(一)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "張勝麟",
+                        "mail": "slchang@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修機械",
+                "time": "週一第1節(I0208)週一第2節(I0208)週一第3節(I0208)週一第4節(I0208)週一第6節(I0208)週一第7節(I0208)週一第8節(I0208)週二第1節(I0208)週二第2節(I0208)週二第3節(I0208)週二第4節(I0208)週二第6節(I0208)週二第7節(I0208)週二第8節(I0208)",
+                "location": "週一第1節(I0208)週一第2節(I0208)週一第3節(I0208)週一第4節(I0208)週一第6節(I0208)週一第7節(I0208)週一第8節(I0208)週二第1節(I0208)週二第2節(I0208)週二第3節(I0208)週二第4節(I0208)週二第6節(I0208)週二第7節(I0208)週二第8節(I0208)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "55人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "21人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "34人"
+                    }
+                }
+            },
+            {
+                "subcode": "10D08601",
+                "name": "微積分(二)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "張勝麟",
+                        "mail": "slchang@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修機械",
+                "time": "週三第1節(I0208)週三第2節(I0208)週三第3節(I0208)週三第4節(I0208)週三第6節(I0208)週三第7節(I0208)週三第8節(I0208)週四第1節(I0208)週四第2節(I0208)週四第3節(I0208)週四第4節(I0208)週四第6節(I0208)週四第7節(I0208)週四第8節(I0208)",
+                "location": "週三第1節(I0208)週三第2節(I0208)週三第3節(I0208)週三第4節(I0208)週三第6節(I0208)週三第7節(I0208)週三第8節(I0208)週四第1節(I0208)週四第2節(I0208)週四第3節(I0208)週四第4節(I0208)週四第6節(I0208)週四第7節(I0208)週四第8節(I0208)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "33人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "13人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "20人"
+                    }
+                }
+            },
+            {
+                "subcode": "12N00601",
+                "name": "自動控制",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "王聖禾",
+                        "mail": "sunhur0315@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修工學",
+                "time": "週一第12節(K302)週一第13節(K302)週一第14節(K302)週二第12節(K302)週二第13節(K302)週二第14節(K302)",
+                "location": "週一第12節(K302)週一第13節(K302)週一第14節(K302)週二第12節(K302)週二第13節(K302)週二第14節(K302)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "29人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "28人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "1人"
+                    }
+                }
+            },
+            {
+                "subcode": "15N01801",
+                "name": "汽車電子學",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "莊鎧榤",
+                        "mail": "mimi3922@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修工學",
+                "time": "週三第11節(K309)週三第12節(K309)週三第13節(K309)週三第14節(K309)週四第11節(K309)週四第12節(K309)",
+                "location": "週三第11節(K309)週三第12節(K309)週三第13節(K309)週三第14節(K309)週四第11節(K309)週四第12節(K309)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "15人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "15人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "10N00S01",
+                "name": "物理",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "林儒禮",
+                        "mail": "ruli@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修工學",
+                "time": "週三第12節(K302)週三第13節(K302)週三第14節(K302)週四第12節(K302)週四第13節(K302)週四第14節(K302)",
+                "location": "週三第12節(K302)週三第13節(K302)週三第14節(K302)週四第12節(K302)週四第13節(K302)週四第14節(K302)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "17人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "14人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "3人"
+                    }
+                }
+            },
+            {
+                "subcode": "12N01701",
+                "name": "電工學",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "許哲嘉",
+                        "mail": "jjsheu@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修工學",
+                "time": "週六第5節(R301)週六第6節(R301)週六第7節(R301)週六第8節(R301)週六第9節(R301)週六第10節(R301)",
+                "location": "週六第5節(R301)週六第6節(R301)週六第7節(R301)週六第8節(R301)週六第9節(R301)週六第10節(R301)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "15人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "15人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "12N02601",
+                "name": "靜力學",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "許哲嘉",
+                        "mail": "jjsheu@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修工學",
+                "time": "週一第12節(R301)週一第13節(R301)週一第14節(R301)週二第12節(R301)週二第13節(R301)週二第14節(R301)",
+                "location": "週一第12節(R301)週一第13節(R301)週一第14節(R301)週二第12節(R301)週二第13節(R301)週二第14節(R301)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "21人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "21人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_ee",
+        "courses": [
+            {
+                "subcode": "20D18701",
+                "name": "工程‧倫理與社會",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "李宗勳",
+                        "mail": "tslee@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修電機",
+                "time": "週三第1節(B401)週三第2節(B401)週三第3節(B401)週三第4節(B401)週三第5節(B401)週三第6節(B401)週三第7節(B401)週三第8節(B401)週三第9節(B401)",
+                "location": "週三第1節(B401)週三第2節(B401)週三第3節(B401)週三第4節(B401)週三第5節(B401)週三第6節(B401)週三第7節(B401)週三第8節(B401)週三第9節(B401)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "12人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "12人"
+                    }
+                }
+            },
+            {
+                "subcode": "20D06501",
+                "name": "工程數學(一)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "黃宏銘",
+                        "mail": "hhm3333@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修電機",
+                "time": "週一第1節(I0209)週一第2節(I0209)週一第3節(I0209)週一第4節(I0209)週一第6節(I0209)週一第7節(I0209)週一第8節(I0209)週二第1節(I0209)週二第2節(I0209)週二第3節(I0209)週二第4節(I0209)週二第6節(I0209)週二第7節(I0209)週二第8節(I0209)",
+                "location": "週一第1節(I0209)週一第2節(I0209)週一第3節(I0209)週一第4節(I0209)週一第6節(I0209)週一第7節(I0209)週一第8節(I0209)週二第1節(I0209)週二第2節(I0209)週二第3節(I0209)週二第4節(I0209)週二第6節(I0209)週二第7節(I0209)週二第8節(I0209)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "59人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "20人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "39人"
+                    }
+                }
+            },
+            {
+                "subcode": "20D06601",
+                "name": "工程數學(二)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "黃冠傑",
+                        "mail": "kchuang07@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修電機",
+                "time": "週三第1節(I0209)週三第2節(I0209)週三第3節(I0209)週三第4節(I0209)週三第6節(I0209)週三第7節(I0209)週三第8節(I0209)週四第1節(I0209)週四第2節(I0209)週四第3節(I0209)週四第4節(I0209)週四第6節(I0209)週四第7節(I0209)週四第8節(I0209)",
+                "location": "週三第1節(I0209)週三第2節(I0209)週三第3節(I0209)週三第4節(I0209)週三第6節(I0209)週三第7節(I0209)週三第8節(I0209)週四第1節(I0209)週四第2節(I0209)週四第3節(I0209)週四第4節(I0209)週四第6節(I0209)週四第7節(I0209)週四第8節(I0209)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "23人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "13人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "10人"
+                    }
+                }
+            },
+            {
+                "subcode": "20D09601",
+                "name": "電子學(一)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "朱慶隆",
+                        "mail": "clchu@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修電機",
+                "time": "週一第1節(K402)週一第2節(K402)週一第3節(K402)週一第4節(K402)週一第6節(K402)週一第7節(K402)週一第8節(K402)週二第1節(K402)週二第2節(K402)週二第3節(K402)週二第4節(K402)週二第6節(K402)週二第7節(K402)週二第8節(K402)",
+                "location": "週一第1節(K402)週一第2節(K402)週一第3節(K402)週一第4節(K402)週一第6節(K402)週一第7節(K402)週一第8節(K402)週二第1節(K402)週二第2節(K402)週二第3節(K402)週二第4節(K402)週二第6節(K402)週二第7節(K402)週二第8節(K402)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "38人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "28人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "10人"
+                    }
+                }
+            },
+            {
+                "subcode": "20D09701",
+                "name": "電子學(二)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "洪得峻",
+                        "mail": "tchung@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修電機",
+                "time": "週三第1節(I0207)週三第2節(I0207)週三第3節(I0207)週三第4節(I0207)週三第6節(I0207)週三第7節(I0207)週三第8節(I0207)週四第1節(I0207)週四第2節(I0207)週四第3節(I0207)週四第4節(I0207)週四第6節(I0207)週四第7節(I0207)週四第8節(I0207)",
+                "location": "週三第1節(I0207)週三第2節(I0207)週三第3節(I0207)週三第4節(I0207)週三第6節(I0207)週三第7節(I0207)週三第8節(I0207)週四第1節(I0207)週四第2節(I0207)週四第3節(I0207)週四第4節(I0207)週四第6節(I0207)週四第7節(I0207)週四第8節(I0207)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "22人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "21人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "1人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_chem",
+        "courses": [
+            {
+                "subcode": "40D07401",
+                "name": "反應工程學",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "廖渭銅",
+                        "mail": "wtliao@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修化材",
+                "time": "週三第2節(I0308)週三第3節(I0308)週三第4節(I0308)週三第6節(I0308)週三第7節(I0308)週三第8節(I0308)週三第9節(I0308)週四第2節(I0308)週四第3節(I0308)週四第4節(I0308)週四第6節(I0308)週四第7節(I0308)週四第8節(I0308)週四第9節(I0308)",
+                "location": "週三第2節(I0308)週三第3節(I0308)週三第4節(I0308)週三第6節(I0308)週三第7節(I0308)週三第8節(I0308)週三第9節(I0308)週四第2節(I0308)週四第3節(I0308)週四第4節(I0308)週四第6節(I0308)週四第7節(I0308)週四第8節(I0308)週四第9節(I0308)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "14人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "14人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_imi",
+        "courses": [
+            {
+                "subcode": "50D2CH01",
+                "name": "專題製作(一)",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "張嘉華",
+                        "mail": "chiahua@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修工管",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "1人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "1人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "50D2CI01",
+                "name": "專題製作(二)",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "張嘉華",
+                        "mail": "chiahua@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修工管",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "1人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "1人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_ba",
+        "courses": [
+            {
+                "subcode": "B0N09701",
+                "name": "休閒導論",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "王嘉淳",
+                        "mail": "jeromy2454@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修商學",
+                "time": "週一第12節(T0608)週一第13節(T0608)週一第14節(T0608)週二第12節(T0608)週二第13節(T0608)週二第14節(T0608)",
+                "location": "週一第12節(T0608)週一第13節(T0608)週一第14節(T0608)週二第12節(T0608)週二第13節(T0608)週二第14節(T0608)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "29人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "29人"
+                    }
+                }
+            },
+            {
+                "subcode": "70N00701",
+                "name": "企業概論",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "黃識銘",
+                        "mail": "paulh@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修商學",
+                "time": "週一第12節(I0205)週一第13節(I0205)週一第14節(I0205)週二第12節(I0205)週二第13節(I0205)週二第14節(I0205)",
+                "location": "週一第12節(I0205)週一第13節(I0205)週一第14節(I0205)週二第12節(I0205)週二第13節(I0205)週二第14節(I0205)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "38人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "14人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "24人"
+                    }
+                }
+            },
+            {
+                "subcode": "70N12901",
+                "name": "經濟學(一)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "詹志明",
+                        "mail": "chanjm@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修商學",
+                "time": "週三第12節(I0205)週三第13節(I0205)週三第14節(I0205)週四第12節(I0205)週四第13節(I0205)週四第14節(I0205)",
+                "location": "週三第12節(I0205)週三第13節(I0205)週三第14節(I0205)週四第12節(I0205)週四第13節(I0205)週四第14節(I0205)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "35人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "24人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "11人"
+                    }
+                }
+            },
+            {
+                "subcode": "70N13001",
+                "name": "經濟學(二)",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "詹志明",
+                        "mail": "chanjm@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修商學",
+                "time": "週六第5節(I0205)週六第6節(I0205)週六第7節(I0205)週六第8節(I0205)週六第9節(I0205)週六第10節(I0205)",
+                "location": "週六第5節(I0205)週六第6節(I0205)週六第7節(I0205)週六第8節(I0205)週六第9節(I0205)週六第10節(I0205)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "11人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "10人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "1人"
+                    }
+                }
+            },
+            {
+                "subcode": "70N12801",
+                "name": "網路應用概論",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "黃識銘",
+                        "mail": "paulh@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "必修",
+                "class": "夜暑修商學",
+                "time": "週三第12節(I0207)週三第13節(I0207)週三第14節(I0207)週四第12節(I0207)週四第13節(I0207)週四第14節(I0207)",
+                "location": "週三第12節(I0207)週三第13節(I0207)週三第14節(I0207)週四第12節(I0207)週四第13節(I0207)週四第14節(I0207)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "30人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "13人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "17人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_leisure",
+        "courses": [
+            {
+                "subcode": "B0D42B01",
+                "name": "戶外團隊活動(一)",
+                "credit": "0.0",
+                "lecturer": [
+                    {
+                        "name": "楊蓓涵",
+                        "mail": "latatujin@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修休閒",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "2人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "2人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "B0D42C01",
+                "name": "戶外團隊活動(二)",
+                "credit": "0.0",
+                "lecturer": [
+                    {
+                        "name": "楊蓓涵",
+                        "mail": "latatujin@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修休閒",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "3人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "3人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "B0D39001",
+                "name": "校內實習暨研習活動",
+                "credit": "1.0",
+                "lecturer": [
+                    {
+                        "name": "楊蓓涵",
+                        "mail": "latatujin@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修休閒",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "1人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "1人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "B0D41O01",
+                "name": "基礎證照",
+                "credit": "1.0",
+                "lecturer": [
+                    {
+                        "name": "楊蓓涵",
+                        "mail": "latatujin@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修休閒",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "1人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "1人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_english",
+        "courses": [
+            {
+                "subcode": "01D11202",
+                "name": "外語能力檢定",
+                "credit": "0.0",
+                "lecturer": [
+                    {
+                        "name": "陳怡真",
+                        "mail": "jennychen@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修應英",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "2人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "2人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "01D12503",
+                "name": "英文能力課程",
+                "credit": "3.0",
+                "lecturer": [
+                    {
+                        "name": "夏幼川",
+                        "mail": "zfv@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修應英",
+                "time": "週二第2節(N310)週二第3節(N310)週二第4節(N310)週二第5節(N310)週二第6節(N310)週二第7節(N310)週二第8節(N310)週三第2節(N310)週三第3節(N310)週三第4節(N310)週三第5節(N310)週三第6節(N310)週三第7節(N310)週三第8節(N310)",
+                "location": "週二第2節(N310)週二第3節(N310)週二第4節(N310)週二第5節(N310)週二第6節(N310)週二第7節(N310)週二第8節(N310)週三第2節(N310)週三第3節(N310)週三第4節(N310)週三第5節(N310)週三第6節(N310)週三第7節(N310)週三第8節(N310)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "27人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "27人"
+                    },
+                    "external": {
+                        "max": "0人",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_mim",
+        "courses": [
+            {
+                "subcode": "D0D1C001",
+                "name": "實務專題(二)",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "黃識銘",
+                        "mail": "paulh@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修行流",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "4人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "4人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_japan",
+        "courses": [
+            {
+                "subcode": "E0D28701",
+                "name": "日語能力檢定",
+                "credit": "0.0",
+                "lecturer": [
+                    {
+                        "name": "陳連浚",
+                        "mail": "chendesu@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修應日",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "39人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "39人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "E0D38A01",
+                "name": "外語實務實習素養",
+                "credit": "0.0",
+                "lecturer": [
+                    {
+                        "name": "陳連浚",
+                        "mail": "chendesu@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修應日",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "12人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "12人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "E0D20201",
+                "name": "日語文法(一)",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "王信心",
+                        "mail": "zg8@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修應日",
+                "time": "週一第5節(I0206)週一第6節(I0206)週一第7節(I0206)週二第5節(I0206)週二第6節(I0206)週二第7節(I0206)週三第5節(I0206)週三第6節(I0206)週三第7節(I0206)",
+                "location": "週一第5節(I0206)週一第6節(I0206)週一第7節(I0206)週二第5節(I0206)週二第6節(I0206)週二第7節(I0206)週三第5節(I0206)週三第6節(I0206)週三第7節(I0206)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "15人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "15人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            },
+            {
+                "subcode": "E0D26601",
+                "name": "日語文法(二)",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "胡琇瓔",
+                        "mail": "hsiuying0214@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修應日",
+                "time": "週二第2節(I0206)週二第3節(I0206)週二第4節(I0206)週三第8節(I0206)週三第9節(I0206)週四第1節(I0206)週四第2節(I0206)週四第3節(I0206)週四第4節(I0206)",
+                "location": "週二第2節(I0206)週二第3節(I0206)週二第4節(I0206)週三第8節(I0206)週三第9節(I0206)週四第1節(I0206)週四第2節(I0206)週四第3節(I0206)週四第4節(I0206)",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "13人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "13人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_csie",
+        "courses": [
+            {
+                "subcode": "G0D16L01",
+                "name": "專題實務(二)",
+                "credit": "2.0",
+                "lecturer": [
+                    {
+                        "name": "陳福坤",
+                        "mail": "fkchen@mail.stust.edu.tw"
+                    },
+                    {
+                        "name": "許子衡",
+                        "mail": "hsuth@mail.stust.edu.tw"
+                    },
+                    {
+                        "name": "鄞宗賢",
+                        "mail": "yinzx@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "自選必修",
+                "class": "暑修資工",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "23人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "23人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "112-3_hm",
+        "courses": [
+            {
+                "subcode": "M0D06801",
+                "name": "餐旅校內實習",
+                "credit": "0.0",
+                "lecturer": [
+                    {
+                        "name": "葉佳聖",
+                        "mail": "yehcs@mail.stust.edu.tw"
+                    }
+                ],
+                "type": "管制必修",
+                "class": "暑修餐旅",
+                "time": "",
+                "location": "",
+                "language": [
+                    "1.華語",
+                    "",
+                    ""
+                ],
+                "capacity": {
+                    "total": {
+                        "max": "60人",
+                        "current": "10人"
+                    },
+                    "class": {
+                        "max": "不設限",
+                        "current": "0人"
+                    },
+                    "deptartment": {
+                        "max": "不設限",
+                        "current": "10人"
+                    },
+                    "external": {
+                        "max": "不設限",
+                        "current": "0人"
+                    }
+                }
+            }
+        ]
+    }
+]
